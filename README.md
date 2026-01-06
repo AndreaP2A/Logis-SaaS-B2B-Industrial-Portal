@@ -15,7 +15,7 @@ Clean, professional, and built for scale. **Logis** is a customer-facing interfa
 > **Note**: This is a frontend-focused concept project created for my portfolio. It's built to demonstrate high-end UI/UX, complex state management, and modern React 19 implementation. All data is currently mocked, and forms serve as UI demonstrations.
 
 ### 🌐 Live Demo
-You can explore the live portal here: [**View Live Demo**](https://andreap2a.github.io/logis-b2b-portal/)
+You can explore the live portal here: [**View Live Demo**](https://andreap2a.github.io/Logis-SaaS-B2B-Industrial-Portal/)
 
 ---
 
