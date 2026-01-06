@@ -29,7 +29,7 @@ export const Header: FC<HeaderProps> = ({ isDark, onToggleTheme, onMenuClick }) 
             </button>
             <div className="flex items-center gap-2 lg:hidden">
                 <div className="h-10 w-10 rounded-xl overflow-hidden shadow-sm flex items-center justify-center transition-transform hover:scale-105">
-                    <img src="/favicon.png" alt="Logis Logo" className="h-full w-full object-cover" />
+                    <img src="favicon.png" alt="Logis Logo" className="h-full w-full object-cover" />
                 </div>
                 <span className="text-2xl font-black tracking-tight theme-text">Logis</span>
             </div>

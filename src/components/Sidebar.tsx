@@ -35,7 +35,7 @@ export const Sidebar: FC<SidebarProps> = ({ isOpen, onClose }) => {
 
           <div className="flex items-center gap-3 px-6 mb-8 mt-2">
             <div className="h-12 w-12 rounded-2xl overflow-hidden shadow-lg shadow-black/5 flex items-center justify-center transition-transform hover:scale-105">
-                <img src="/favicon.png" alt="Logis Logo" className="h-full w-full object-cover" />
+                <img src="favicon.png" alt="Logis Logo" className="h-full w-full object-cover" />
             </div>
             <span className="text-2xl font-black tracking-tight theme-text">Logis</span>
           </div>
