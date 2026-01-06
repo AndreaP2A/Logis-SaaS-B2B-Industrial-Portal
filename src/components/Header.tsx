@@ -1,5 +1,5 @@
 import { useState, type FC } from "react";
-import { Bell, Search, HelpCircle, Moon, Sun, ShieldAlert, CheckCircle2, Clock, Zap, Menu } from "lucide-react";
+import { Bell, HelpCircle, Moon, Sun, ShieldAlert, CheckCircle2, Clock, Zap, Menu } from "lucide-react";
 
 interface HeaderProps {
   isDark: boolean;
@@ -36,9 +36,7 @@ export const Header: FC<HeaderProps> = ({ isDark, onToggleTheme, onMenuClick }) 
         </div>
 
         <div className="flex items-center gap-2 sm:gap-4 ml-auto">
-          <button className="sm:hidden p-2 theme-text-muted hover:theme-text">
-            <Search className="h-5 w-5" />
-          </button>
+
 
           <button 
             onClick={onToggleTheme}
