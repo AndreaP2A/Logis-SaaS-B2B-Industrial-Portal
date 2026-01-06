@@ -10,9 +10,7 @@
 [![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)](https://reactrouter.com/)
 [![Lucide React](https://img.shields.io/badge/Lucide_React-20232A?style=for-the-badge&logo=lucide&logoColor=white)](https://lucide.dev/)
 
-Clean, professional, and built for scale. **Logis** is a customer-facing interface designed specifically for global logistics and utility management. It provides industrial clients with a calm, clear way to monitor their consumption, manage active service contracts, and handle team-wide security permissions.
-
-> **Note**: This is a frontend-focused concept project created for my portfolio. It's built to demonstrate high-end UI/UX, complex state management, and modern React 19 implementation. All data is currently mocked, and forms serve as UI demonstrations.
+A professional customer-facing interface designed for global logistics and heavy utility management. Built to handle complex B2B workflows with high information density, structural performance, and clear visual hierarchy.
 
 ### 🌐 Live Demo
 You can explore the live portal here: [**View Live Demo**](https://andreap2a.github.io/Logis-SaaS-B2B-Industrial-Portal/)
@@ -20,11 +18,11 @@ You can explore the live portal here: [**View Live Demo**](https://andreap2a.git
 ---
 
 ### ✨ Highlights
-- **Aesthetic**: A "Soft Professional" design system using high-saturation / low-opacity accents for a luminous, clean feel.
-- **Utility Tracking**: Highly visual consumption cards for Electricity, Water, and Industrial Gas with interactive progress monitoring.
-- **Legal & Compliance**: Dedicated module for contract management, document tracking, and industrial audit status.
-- **Team Intelligence**: Role-based access management with security policy enforcement (MFA).
-- **Responsive**: Fully optimized for professional use on desktops, tablets, and mobile devices.
+- **High Density**: Professional layouts optimized for complex data monitoring and industrial workflows.
+- **Soft Professional**: A luminous design system using high-saturation alpha accents for visual clarity.
+- **Resource Intelligence**: Interactive tracking for Electricity, Water, and Industrial Gas with trend analysis.
+- **Status Management**: Real-time oversight for active service contracts and industrial audits.
+- **Security First**: Integrated role-based access management and security policy enforcement.
 
 ### 🚀 Tech Stack
 - **Core**: React 19 + Vite 7
@@ -32,15 +30,23 @@ You can explore the live portal here: [**View Live Demo**](https://andreap2a.git
 - **Styling**: TailwindCSS 4 (New single-file engine)
 - **Icons**: Lucide React
 
-### 🛠️ Local Development
-1. Clone the repository: `git clone https://github.com/AndreaP2A/logis-b2b-portal.git`
+### 🏗️ Features
+- **Dashboard**: High-level overview of facility health, security status, and core metrics.
+- **Services**: Comprehensive tracking of maintenance schedules, IoT subscriptions, and expert assignments.
+- **Contracts**: Legal and compliance module for multi-million euro industrial agreements.
+- **Consumption**: Dense data grids and visualizations for multi-resource utility usage.
+- **Team**: Access control management for facility managers and external auditors.
+
+### 🎨 Design Principles
+- **Information Density**: Maximizing visible data without cognitive overload.
+- **Visual Hierarchy**: Clear contrast and typographic scale for expert users.
+- **Native Behavior**: Components that respond with standard HTML-like predictability.
+- **B2B Aesthetics**: Neutral grays and subtle shadows for a focused, brand-agnostic environment.
+
+### �️ Local Development
+1. Clone the repository: `git clone https://github.com/AndreaP2A/Logis-SaaS-B2B-Industrial-Portal.git`
 2. Install dependencies: `npm install`
 3. Run dev server: `npm run dev`
 
-### 🎨 Customization
-- **Branding**: Update the logo by replacing `public/favicon.png`.
-- **Theming**: Centralize colors and component tokens in `src/index.css`.
-- **Data**: All portal content (Services, Team, Contracts) is managed in `src/data/mock.ts`.
-
 ### 📄 License
-This project is MIT licensed.
+This project is open-source and available under the MIT License.
