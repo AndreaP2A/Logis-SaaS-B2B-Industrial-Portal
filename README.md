@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="public/favicon.png" alt="Logis Logo" width="120" />
+</p>
+
 # 📦 Logis — B2B Industrial Portal
 [![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactjs.org/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
