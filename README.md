@@ -1,10 +1,10 @@
 # 📦 Logis — B2B Industrial Portal
-**React 19 + Vite + Tailwind 4** | **License: MIT**
-
 [![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactjs.org/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)](https://vitejs.dev/)
 [![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
+[![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)](https://reactrouter.com/)
+[![Lucide React](https://img.shields.io/badge/Lucide_React-20232A?style=for-the-badge&logo=lucide&logoColor=white)](https://lucide.dev/)
 
 Clean, professional, and built for scale. **Logis** is a customer-facing interface designed specifically for global logistics and utility management. It provides industrial clients with a calm, clear way to monitor their consumption, manage active service contracts, and handle team-wide security permissions.
 
